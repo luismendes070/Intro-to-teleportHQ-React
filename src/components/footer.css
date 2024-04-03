@@ -1,0 +1,12 @@
+.footer-footer {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  margin-top: 4em;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer-text {
+  margin-bottom: var(--dl-space-space-halfunit);
+}
